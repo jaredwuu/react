@@ -17,12 +17,7 @@
       "day": "tomorrow",
       "reminder": false,
       "id": 560
-    },
-    {
-      "text": "meeting ",
-      "day": "May 1",
-      "reminder": true,
-      "id": 561
     }
+ 
   ]
 }

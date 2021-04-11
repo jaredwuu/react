@@ -96,7 +96,7 @@ const addTask=async (task)=>{
               ) : (
                 'No Tasks To Show'
       )}  */}
-      <Route path = '/react' exact render={(props) => ( 
+      <Route path = '/' exact render={(props) => ( 
         <>
           {showAddTask&&<AddTask onAdd={addTask}/>}
           {tasks.length > 0 ? (
